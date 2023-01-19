@@ -92,7 +92,7 @@ async def save_media_in_channel(bot: Client, editable: Message, message: Message
             f"Here is the Permanent Link of your file: {share_link} \n\n"
             "Just Click the link to get your file!",
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton("Open Link", url=share_link)]
+                [[InlineKeyboardButton("Open Link", url=share_link)]]
             ),
             disable_web_page_preview=True
         )
