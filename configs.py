@@ -30,12 +30,12 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-👥 **my owner:** [jack_sparow119](https://t.me/jack_sparow119)
+👥 **my owner:** [jack_sparrow](https://t.me/ded_eye)
 
-📢 **our channel:** [filmy funda movies](https://t.me/filmyfunda_movies)
+📢 **our channel:** [filmy funda movies](https://t.me/serials_funda)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developer:** AbirHasan
+🧑🏻‍💻 **Developer:** jack sparrow
 
 Developer is Super Noob. Just Learning from Official Docs.
 
